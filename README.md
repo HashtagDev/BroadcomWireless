@@ -10,4 +10,4 @@ https://nofile.io/f/FceXKOhb4Dj/broadcom-wl-5.100.138.tar.bz2
 How to use : 
 - Copy the above files and the script into any directory.
 - Run the CLI from that particular directory.
-- Type sh brm.sh and hit enter.
+- Type >$ sh brm.sh and hit enter.
