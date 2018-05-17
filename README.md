@@ -1,5 +1,5 @@
 # BroadcomWireless
-Simple sequential Bash script for installing wireless driver in Ubuntu systems with Broadcom Network cards (tested in Ubuntu 16.04)
+Simple sequential Shell script for installing wireless driver in Ubuntu systems with Broadcom Network cards (tested in Ubuntu 16.04)
 
 Additional files you will need with this script:
 1)  B43FWCutter package for extracting Broadcom 43xx firmware (this is for 64bit systems):
